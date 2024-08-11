@@ -1,7 +1,7 @@
 # Cinnamon-XE
 A theme for the Cinnamon desktop that combines Mint-X with ElementaryOS
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 # Install
 Open a terminal window and copy the following command (make sure you have a ".themes" folder, it is a hiddle folder btw)
