@@ -4,7 +4,7 @@ A theme for the Cinnamon desktop that combines Mint-X with ElementaryOS
 ![screenshot](screenshot.png)
 
 # Install
-Open a terminal window and copy the following commands
+Open a terminal window and copy the following command
 
 ```
 cd .themes && git clone https://github.com/goosium/Cinnamon-XE.git
