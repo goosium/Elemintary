@@ -10,7 +10,7 @@ git clone https://github.com/goosium/Cinnamon-XE.git
 To enable the theme, in Cinnamon's system settings, open the Themes option with Advanced settings and set the Desktop theme to Cinnamon-XE
 
 
-
+# Not important stuff
 Very early development
 
 Based on the "Linux Mint" theme for the Cinnamon Desktop
