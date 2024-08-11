@@ -109,7 +109,7 @@ StScrollBar StButton#vhandle:hover {
     /*border: 1px solid rgba(120, 120, 120, 1);*/
     border: 1px solid rgba(0, 0, 0, 1);
     border-radius: 7px;
-    margin: 5px;
+    margin: 15px;
     background-color: rgba(63, 63, 63, 0.95);
     color: #fff;
     font-size: .95em;
@@ -819,7 +819,7 @@ StScrollBar StButton#vhandle:hover {
 .calendar-day-base {
     font-size: 1em;
     text-align: center;
-    width: 2.4em;
+    width: 3.2em;
     height: 2.4em;
 }
 
