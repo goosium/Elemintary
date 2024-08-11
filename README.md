@@ -1,6 +1,7 @@
 # Cinnamon-XE
 A theme for the Cinnamon desktop that combines Mint-X with ElementaryOS
-https://github.com/goosium/Cinnamon-XE/blob/main/screenshot.png?raw=true
+
+![screenshot](screenshot.png)
 
 Very early development
 
