@@ -1,10 +1,10 @@
 { 
    "cinnamon-theme": {
-   "name": "Cinnamon-X", 
+   "name": "Cinnamon-XE", 
    "author": "goosium", 
-   "version": "1.0",
+   "version": "early development",
    "type":   "custom",
    "thumbnail": "thumbnail.png", 
-   "url": "" 
+   "url": "https://github.com/goosium/Cinnamon-XE" 
     }
 }
