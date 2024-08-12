@@ -890,6 +890,20 @@ StScrollBar StButton#vhandle:hover {
 }
 
 /* ===================================================================
+ * User applet (user@cinnamon.org/applet.js)
+ * ===================================================================*/
+.user-icon {
+    border: 1px solid rgba(255, 255, 255, 0.33);
+    border-radius: 99px;
+}
+
+.user-label {
+    color: rgb(255, 255, 255);
+    font-size: 1.6em;
+    margin: 6px;
+}
+
+/* ===================================================================
  * Notifications (messageTray.js)
  * ===================================================================*/
 #notification {
