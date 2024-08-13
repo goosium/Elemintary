@@ -275,11 +275,11 @@ StScrollBar StButton#vhandle:hover {
  * Panel (panel.js)
  * ===================================================================*/
 #panel {
-.panel-bottom {
-    background-gradient-direction: vertical;
-    background-gradient-start: rgb(75, 75, 75);
-    background-gradient-end: rgb(35, 35, 35);
-    box-shadow: 0px 0px 0px 1px rgb(0, 0, 0);
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: normal;
+    height: 27px;
+    width: 32px;
 }
 
 #panel:highlight {
