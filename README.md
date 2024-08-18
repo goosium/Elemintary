@@ -1,6 +1,8 @@
 # Elemintary
 A theme for the Cinnamon desktop that combines Mint-X with ElementaryOS
 
+### *from freedom came elegance*
+
 ![screenshot](screenshot.png)
 
 # Install
